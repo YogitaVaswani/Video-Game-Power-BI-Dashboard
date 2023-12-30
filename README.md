@@ -8,6 +8,8 @@ market and providing insights into the evolution of the industry over time.
 
 ## DASHBOARD
 
+<img src=[db1](https://github.com/YogitaVaswani/Video-Game-Power-BI-Dashboard/assets/155186637/b57ce1d5-7bfc-4afc-9773-747fd391998e)
+
 
 ## Steps:
 ## 1. Load Data:
